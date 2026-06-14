@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello , I am a Java Full-Stack Developer<br>I have done many Open-Source and Intermediate Projects<br>I am currently improving myself on Spring <br>Fun Fact : I adapt fast
+Hello , I am a Java Full-Stack Developer<br>I have done Intermediate Projects<br>I am currently improving myself on Spring <br>Fun Fact : I adapt fast
 
 
 ## 🌐 Socials:
