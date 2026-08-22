@@ -107,6 +107,13 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 
 <div align="center">
 
+### 📊 My GitHub Stats
+![Stats Card](https://vercel.app)
+
+### 🗂️ Top Languages
+![Languages Card](https://vercel.app)
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaanali18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaanali18&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
