@@ -77,7 +77,7 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 
 ### 🚀 Projects
 
-#### 📚 [Library Management System](https://github.com/YOUR_USERNAME/library-management-system)
+#### 📚 [Library Management System](https://github.com/Amaanali18/Library_Management_System)
 `React.js` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `REST APIs`
 
 - **Situation:** Libraries need a secure, multi-user system to manage catalogs, borrowing, and returns without manual tracking errors.
@@ -85,7 +85,7 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 - **Action:** Implemented JWT-based authentication and role-based access control across frontend and backend; built book catalog, borrowing, return, and inventory modules with Spring Boot and PostgreSQL; designed RESTful APIs and a responsive React.js interface with input validation and centralized exception handling.
 - **Result:** A reliable, secure system supporting concurrent multi-user access with clean error handling and a smooth user experience.
 
-#### 🗳️ [Online Voting System](https://github.com/YOUR_USERNAME/online-voting-system)
+#### 🗳️ [Online Voting System](https://github.com/Amaanali18/Voting-App)
 `React.js` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Logback`
 
 - **Situation:** Digital voting requires strict integrity guarantees — no duplicate votes, verified identity, and traceable actions.
@@ -93,7 +93,7 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 - **Action:** Built authenticated digital voting using Spring Boot, Spring Security, JWT, and PostgreSQL; designed RESTful APIs with role-based authorization and one-vote-per-user validation; implemented a layered architecture with Spring Data JPA and audit logging via Logback.
 - **Result:** A voting platform that preserves election integrity, prevents duplicate votes, and improves maintainability and traceability through detailed audit logs.
 
-#### 💬 [Chat Application](https://github.com/YOUR_USERNAME/chat-application)
+#### 💬 [Chat Application](https://github.com/Amaanali18/ChatApp)
 `React.js` `Spring Boot` `WebSocket` `STOMP` `SockJS` `MongoDB Atlas`
 
 - **Situation:** Real-time communication apps need low-latency, bidirectional messaging with reliable history storage.
@@ -107,23 +107,19 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 
 <div align="center">
 
-### 📊 My GitHub Stats
-![Stats Card](https://vercel.app)
-
-### 🗂️ Top Languages
-![Languages Card](https://vercel.app)
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaanali18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaanali18&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amaanali18&theme=tokyonight" alt="GitHub Streak"/>
-
-<br/>
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amaanali18&theme=react-dark&hide_border=true" alt="Commit Activity Graph" width="100%"/>
+
+<br/>
+
+<img height="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amaanali18&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
+
+<br/>
+
+<img height="50%" src="https://github-stats-extended.vercel.app/api/?username=Amaanali18&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Amaanali%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="All Activity Status" width="50%"/>
+
+</br>
 
 </div>
 
@@ -150,9 +146,9 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanaliparchigar0918@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanali-parchigar-14a84b322/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amaanali18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amaanaliparchigar)
 
 </div>
 
