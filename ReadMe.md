@@ -109,7 +109,11 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amaanali18&theme=react-dark&hide_border=true" alt="Commit Activity Graph" width="100%"/>
+## My Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+</p>
 
 <br/>
 
