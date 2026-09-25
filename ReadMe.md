@@ -111,7 +111,7 @@ Backend-focused Computer Science student (B.Tech, Parul University — CGPA 9.07
 ## My Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
 <br/>
